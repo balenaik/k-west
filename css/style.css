@@ -841,7 +841,7 @@ img.example-image {
 list-style-type: none;
 }
 .adress ul li{
-    width: 33.33333%;
+    width: 50%;
     float: left;
     text-align: center;
     font-family: 'Hind Vadodara';
